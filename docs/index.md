@@ -1,37 +1,71 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/tarun-do/odishalive.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Odisha tech vision</title>
+        <link rel="stylesheet" href="http://odiafonts.com/fontlist.css" type="text/css" charset="utf-8" />
+	<link rel="stylesheet" href="http://odiafonts.com/fontcss.css" type="text/css" charset="utf-8" />
+        <style>
+           
+            @import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
+            body{background-color: rgb(235 230 240);
+            font-size: 15px;
+            text-align: center;
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+            }
+            h1{color: rgb(255, 0, 0);
+            font-size: 70px;
+            font-family: 'Dela Gothic One', cursive;
 
-### Markdown
+            }
+            p{color: rgb(0, 0, 0);
+            
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+            }
+            a{
+                 color: blue;
+                 background-color: cyan;
+                 padding: 15px;
+                 font-size: 30px;
+                 margin: 15px;
+                 text-decoration: none;
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+            }
+            a:hover{
+                background: black;
+                
+            }
+            
 
-- Bulleted
-- List
+        </style>
+    </head>
+    <body>
+<h1>Welocme To Odisha Tech Vision</h1>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+    when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+    It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
+    It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+    and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p>
+    <br/>
+    <br/>
+    <img  title="odisha Tech Vision" src="https://yt3.ggpht.com/ytc/AAUvwnhjTSq8l5opttIfggyFp6MJVB6_mpFPjsyYPoUkLw=s900-c-k-c0x00ffffff-no-rj"  >
+    <br/>
+    <br/>
+    <br/>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+    <a href="https://www.google.co.in/" target="_blank">click to view</a>
+    <br/>
+    <br/>
+    <br/>
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tarun-do/odishalive.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    <div class="or10">ଆସନ୍ତୁ ଆମେ ଓଡିଆ ରେ ଲେଖିବା ଶିଖିବା ସମସ୍ତେ ମିଶି ଓଡିଆ ଶିଖିବା ଓଡିଆ ଭାଷା</div>
+    <br/>
+    <br/>
+    <br/>
+  
+    
+    </body>
+</html>
